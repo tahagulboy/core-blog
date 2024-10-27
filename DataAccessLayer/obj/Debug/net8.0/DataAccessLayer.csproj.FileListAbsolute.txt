@@ -1,0 +1,17 @@
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\DataAccessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\DataAccessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

@@ -1,0 +1,11 @@
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\EntityLayer\bin\Debug\net8.0\EntityLayer.deps.json
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\EntityLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\EntityLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\EntityLayer\obj\Debug\net8.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfo.cs
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\EntityLayer\obj\Debug\net8.0\EntityLayer.dll
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\EntityLayer\obj\Debug\net8.0\refint\EntityLayer.dll
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\EntityLayer\obj\Debug\net8.0\EntityLayer.pdb
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\EntityLayer\obj\Debug\net8.0\ref\EntityLayer.dll
