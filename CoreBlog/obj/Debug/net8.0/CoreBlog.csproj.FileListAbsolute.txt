@@ -262,3 +262,7 @@ C:\Users\tahag\Documents\ProjectFiles\CoreBlog\CoreBlog\bin\Debug\net8.0\runtime
 C:\Users\tahag\Documents\ProjectFiles\CoreBlog\CoreBlog\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\tahag\Documents\ProjectFiles\CoreBlog\CoreBlog\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\tahag\Documents\ProjectFiles\CoreBlog\CoreBlog\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\CoreBlog\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\CoreBlog\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\CoreBlog\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\tahag\Documents\ProjectFiles\CoreBlog\CoreBlog\obj\Debug\net8.0\CoreBlog.MvcApplicationPartsAssemblyInfo.cs

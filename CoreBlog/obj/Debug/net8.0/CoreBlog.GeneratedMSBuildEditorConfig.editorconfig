@@ -26,6 +26,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\tahag\Documents\ProjectFiles\CoreBlog\CoreBlog
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/tahag/Documents/ProjectFiles/CoreBlog/CoreBlog/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tahag/Documents/ProjectFiles/CoreBlog/CoreBlog/Views/About/SocialMediaLinks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcU29jaWFsTWVkaWFMaW5rcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/tahag/Documents/ProjectFiles/CoreBlog/CoreBlog/Views/Blog/BlogReadAll.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nUmVhZEFsbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -46,12 +54,32 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxQYXJ0aWFsQWRkQ29tbWVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/tahag/Documents/ProjectFiles/CoreBlog/CoreBlog/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tahag/Documents/ProjectFiles/CoreBlog/CoreBlog/Views/ErrorPage/Error1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JQYWdlXEVycm9yMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/tahag/Documents/ProjectFiles/CoreBlog/CoreBlog/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/tahag/Documents/ProjectFiles/CoreBlog/CoreBlog/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tahag/Documents/ProjectFiles/CoreBlog/CoreBlog/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tahag/Documents/ProjectFiles/CoreBlog/CoreBlog/Views/Newsletter/SubscribeMail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c2xldHRlclxTdWJzY3JpYmVNYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tahag/Documents/ProjectFiles/CoreBlog/CoreBlog/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/tahag/Documents/ProjectFiles/CoreBlog/CoreBlog/Views/Shared/Components/CategoryList/Default.cshtml]
@@ -64,6 +92,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/tahag/Documents/ProjectFiles/CoreBlog/CoreBlog/Views/Shared/Components/CommentList/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29tbWVudExpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tahag/Documents/ProjectFiles/CoreBlog/CoreBlog/Views/Shared/Components/LastBlogByWriter/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTGFzdEJsb2dCeVdyaXRlclxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/tahag/Documents/ProjectFiles/CoreBlog/CoreBlog/Views/Shared/Error.cshtml]
@@ -88,6 +120,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/tahag/Documents/ProjectFiles/CoreBlog/CoreBlog/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tahag/Documents/ProjectFiles/CoreBlog/CoreBlog/Views/Writer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV3JpdGVyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/tahag/Documents/ProjectFiles/CoreBlog/CoreBlog/Views/_ViewImports.cshtml]

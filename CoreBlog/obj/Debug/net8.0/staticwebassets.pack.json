@@ -21,278 +21,6 @@
       "PackagePath": "staticwebassets\\lib\\CoreBlogTema.zip"
     },
     {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\about.html",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\about.html"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\blog1.html",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\blog1.html"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\blog2.html",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\blog2.html"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\blog3.html",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\blog3.html"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\contact.html",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\contact.html"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\css\\bootstrap.css"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\css\\contact.css",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\css\\contact.css"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\css\\fontawesome-all.css",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\css\\fontawesome-all.css"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\css\\jquery.desoslide.css",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\css\\jquery.desoslide.css"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\css\\single.css",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\css\\single.css"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\css\\style.css",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\css\\style.css"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\1.jpg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\2.jpg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\3.jpg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\4.jpg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\5.jpg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\5.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\6.jpg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\6.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\7.jpg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\7.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\8.jpg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\8.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\Thumbs.db",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\Thumbs.db"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\b1.jpg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\b1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\b2.jpg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\b2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\b3.jpg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\b3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\b4.jpg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\b4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\b5.jpg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\b5.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\banner1.jpg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\banner1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\banner2.jpg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\banner2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\banner3.jpg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\banner3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\banner4.jpg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\banner4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\banner5.jpg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\banner5.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\left.png",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\left.png"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\m1.jpg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\m1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\m2.jpg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\m2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\m3.jpg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\m3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\m4.jpg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\m4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\right.png",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\right.png"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\t1.jpg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\t1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\t2.jpg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\t2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\t3.jpg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\t3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\t4.jpg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\t4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\images\\top_up.png",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\images\\top_up.png"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\index.html",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\index.html"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\js\\bootstrap.js"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\js\\easing.js",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\js\\easing.js"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\js\\jquery-2.2.3.min.js",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\js\\jquery-2.2.3.min.js"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\js\\jquery.desoslide.js",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\js\\jquery.desoslide.js"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\js\\jquery.flexisel.js",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\js\\jquery.flexisel.js"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\js\\modernizr.custom.min.js",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\js\\modernizr.custom.min.js"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\js\\move-top.js",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\js\\move-top.js"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\login.html",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\login.html"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\register.html",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\register.html"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\single.html",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\single.html"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\w3layouts-license.txt",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\w3layouts-license.txt"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\webfonts\\fa-brands-400.eot",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\webfonts\\fa-brands-400.eot"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\webfonts\\fa-brands-400.svg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\webfonts\\fa-brands-400.svg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\webfonts\\fa-brands-400.ttf",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\webfonts\\fa-brands-400.ttf"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\webfonts\\fa-brands-400.woff",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\webfonts\\fa-brands-400.woff"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\webfonts\\fa-brands-400.woff2",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\webfonts\\fa-brands-400.woff2"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\webfonts\\fa-regular-400.eot",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\webfonts\\fa-regular-400.eot"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\webfonts\\fa-regular-400.svg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\webfonts\\fa-regular-400.svg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\webfonts\\fa-regular-400.ttf",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\webfonts\\fa-regular-400.ttf"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\webfonts\\fa-regular-400.woff",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\webfonts\\fa-regular-400.woff"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\webfonts\\fa-regular-400.woff2",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\webfonts\\fa-regular-400.woff2"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\webfonts\\fa-solid-900.eot",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\webfonts\\fa-solid-900.eot"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\webfonts\\fa-solid-900.svg",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\webfonts\\fa-solid-900.svg"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\webfonts\\fa-solid-900.ttf",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\webfonts\\fa-solid-900.ttf"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\webfonts\\fa-solid-900.woff",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\webfonts\\fa-solid-900.woff"
-    },
-    {
-      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\CoreBlogTema\\web\\webfonts\\fa-solid-900.woff2",
-      "PackagePath": "staticwebassets\\lib\\CoreBlogTema\\web\\webfonts\\fa-solid-900.woff2"
-    },
-    {
       "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
@@ -519,6 +247,322 @@
     {
       "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\about.html",
+      "PackagePath": "staticwebassets\\tema\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\blog1.html",
+      "PackagePath": "staticwebassets\\tema\\blog1.html"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\blog2.html",
+      "PackagePath": "staticwebassets\\tema\\blog2.html"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\blog3.html",
+      "PackagePath": "staticwebassets\\tema\\blog3.html"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\contact.html",
+      "PackagePath": "staticwebassets\\tema\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\tema\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\css\\contact.css",
+      "PackagePath": "staticwebassets\\tema\\css\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\css\\fontawesome-all.css",
+      "PackagePath": "staticwebassets\\tema\\css\\fontawesome-all.css"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\css\\jquery.desoslide.css",
+      "PackagePath": "staticwebassets\\tema\\css\\jquery.desoslide.css"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\css\\single.css",
+      "PackagePath": "staticwebassets\\tema\\css\\single.css"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\css\\style.css",
+      "PackagePath": "staticwebassets\\tema\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\tema\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\tema\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\tema\\images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\tema\\images\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\tema\\images\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\tema\\images\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\tema\\images\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\tema\\images\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\Thumbs.db",
+      "PackagePath": "staticwebassets\\tema\\images\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\b1.jpg",
+      "PackagePath": "staticwebassets\\tema\\images\\b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\b2.jpg",
+      "PackagePath": "staticwebassets\\tema\\images\\b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\b3.jpg",
+      "PackagePath": "staticwebassets\\tema\\images\\b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\b4.jpg",
+      "PackagePath": "staticwebassets\\tema\\images\\b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\b5.jpg",
+      "PackagePath": "staticwebassets\\tema\\images\\b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\tema\\images\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\tema\\images\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\banner3.jpg",
+      "PackagePath": "staticwebassets\\tema\\images\\banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\banner4.jpg",
+      "PackagePath": "staticwebassets\\tema\\images\\banner4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\banner5.jpg",
+      "PackagePath": "staticwebassets\\tema\\images\\banner5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\left.png",
+      "PackagePath": "staticwebassets\\tema\\images\\left.png"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\m1.jpg",
+      "PackagePath": "staticwebassets\\tema\\images\\m1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\m2.jpg",
+      "PackagePath": "staticwebassets\\tema\\images\\m2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\m3.jpg",
+      "PackagePath": "staticwebassets\\tema\\images\\m3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\m4.jpg",
+      "PackagePath": "staticwebassets\\tema\\images\\m4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\right.png",
+      "PackagePath": "staticwebassets\\tema\\images\\right.png"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\t1.jpg",
+      "PackagePath": "staticwebassets\\tema\\images\\t1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\t2.jpg",
+      "PackagePath": "staticwebassets\\tema\\images\\t2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\t3.jpg",
+      "PackagePath": "staticwebassets\\tema\\images\\t3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\t4.jpg",
+      "PackagePath": "staticwebassets\\tema\\images\\t4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\images\\top_up.png",
+      "PackagePath": "staticwebassets\\tema\\images\\top_up.png"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\index.html",
+      "PackagePath": "staticwebassets\\tema\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\tema\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\js\\easing.js",
+      "PackagePath": "staticwebassets\\tema\\js\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\js\\jquery-2.2.3.min.js",
+      "PackagePath": "staticwebassets\\tema\\js\\jquery-2.2.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\js\\jquery.desoslide.js",
+      "PackagePath": "staticwebassets\\tema\\js\\jquery.desoslide.js"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\js\\jquery.flexisel.js",
+      "PackagePath": "staticwebassets\\tema\\js\\jquery.flexisel.js"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\js\\modernizr.custom.min.js",
+      "PackagePath": "staticwebassets\\tema\\js\\modernizr.custom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\js\\move-top.js",
+      "PackagePath": "staticwebassets\\tema\\js\\move-top.js"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\login.html",
+      "PackagePath": "staticwebassets\\tema\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\register.html",
+      "PackagePath": "staticwebassets\\tema\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\single.html",
+      "PackagePath": "staticwebassets\\tema\\single.html"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\w3layouts-license.txt",
+      "PackagePath": "staticwebassets\\tema\\w3layouts-license.txt"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\tema\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\tema\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\tema\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\tema\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\tema\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\tema\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\tema\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\tema\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\tema\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\tema\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\tema\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\tema\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\tema\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\tema\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\tema\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\tema\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\weberror\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\weberror\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\weberror\\css\\style.css",
+      "PackagePath": "staticwebassets\\weberror\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\weberror\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\weberror\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\weberror\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\weberror\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\weberror\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\weberror\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\weberror\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\weberror\\images\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\weberror\\index.html",
+      "PackagePath": "staticwebassets\\weberror\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\wwwroot\\weberror\\w3layouts-license.txt",
+      "PackagePath": "staticwebassets\\weberror\\w3layouts-license.txt"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CoreBlog.Microsoft.AspNetCore.StaticWebAssets.props",

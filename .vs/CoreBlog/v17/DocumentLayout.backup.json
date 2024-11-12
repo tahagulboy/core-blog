@@ -3,112 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\coreblog\\views\\blog\\blogreadall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|solutionrelative:coreblog\\views\\blog\\blogreadall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\coreblog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|solutionrelative:coreblog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\coreblog\\views\\shared\\components\\categorylist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|solutionrelative:coreblog\\views\\shared\\components\\categorylist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\coreblog\\viewcomponents\\category\\categorylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|solutionrelative:coreblog\\viewcomponents\\category\\categorylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\coreblog\\viewcomponents\\comment\\commentlistbyblog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|solutionrelative:coreblog\\viewcomponents\\comment\\commentlistbyblog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\coreblog\\views\\comment\\commentlistbyblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|solutionrelative:coreblog\\views\\comment\\commentlistbyblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\coreblog\\views\\shared\\components\\commentlist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|solutionrelative:coreblog\\views\\shared\\components\\commentlist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\coreblog\\viewcomponents\\commentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|solutionrelative:coreblog\\viewcomponents\\commentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\coreblog\\views\\shared\\components\\commentlistbyblog\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|solutionrelative:coreblog\\views\\shared\\components\\commentlistbyblog\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\coreblog\\models\\usercomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|solutionrelative:coreblog\\models\\usercomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\coreblog\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|solutionrelative:coreblog\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\coreblog\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|solutionrelative:coreblog\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\coreblog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|solutionrelative:coreblog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\coreblog\\controllers\\newslettercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|solutionrelative:coreblog\\controllers\\newslettercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\coreblog\\controllers\\writercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|solutionrelative:coreblog\\controllers\\writercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\coreblog\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|solutionrelative:coreblog\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\coreblog\\controllers\\errorpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|solutionrelative:coreblog\\controllers\\errorpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\coreblog\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|solutionrelative:coreblog\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\coreblog\\controllers\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|solutionrelative:coreblog\\controllers\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\coreblog\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|solutionrelative:coreblog\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\coreblog\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|solutionrelative:coreblog\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\coreblog\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|solutionrelative:coreblog\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\coreblog\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|solutionrelative:coreblog\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\coreblog\\views\\comment\\partialaddcomment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|solutionrelative:coreblog\\views\\comment\\partialaddcomment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F623CD11-17C7-4B2B-ACCB-7444022D02FC}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\dataaccesslayer\\entityframework\\efblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F623CD11-17C7-4B2B-ACCB-7444022D02FC}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entityframework\\efblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F59EBC7-4774-47C3-80BA-BD54710E422A}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\businesslayer\\concrete\\commentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F59EBC7-4774-47C3-80BA-BD54710E422A}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\commentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F59EBC7-4774-47C3-80BA-BD54710E422A}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\businesslayer\\abstract\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F59EBC7-4774-47C3-80BA-BD54710E422A}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F59EBC7-4774-47C3-80BA-BD54710E422A}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\businesslayer\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F59EBC7-4774-47C3-80BA-BD54710E422A}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F59EBC7-4774-47C3-80BA-BD54710E422A}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\businesslayer\\abstract\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F59EBC7-4774-47C3-80BA-BD54710E422A}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F59EBC7-4774-47C3-80BA-BD54710E422A}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\businesslayer\\concrete\\blogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F59EBC7-4774-47C3-80BA-BD54710E422A}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\blogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F623CD11-17C7-4B2B-ACCB-7444022D02FC}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F623CD11-17C7-4B2B-ACCB-7444022D02FC}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F623CD11-17C7-4B2B-ACCB-7444022D02FC}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F623CD11-17C7-4B2B-ACCB-7444022D02FC}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\coreblog\\views\\shared\\userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|solutionrelative:coreblog\\views\\shared\\userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F59EBC7-4774-47C3-80BA-BD54710E422A}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7F59EBC7-4774-47C3-80BA-BD54710E422A}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F623CD11-17C7-4B2B-ACCB-7444022D02FC}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\dataaccesslayer\\abstract\\iblogdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F623CD11-17C7-4B2B-ACCB-7444022D02FC}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\abstract\\iblogdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|c:\\users\\tahag\\documents\\projectfiles\\coreblog\\coreblog\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073D4E34-93E0-4DD2-B152-6652DE649694}|CoreBlog\\CoreBlog.csproj|solutionrelative:coreblog\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -122,106 +58,119 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoryList.cs",
-              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\ViewComponents\\Category\\CategoryList.cs",
-              "RelativeDocumentMoniker": "CoreBlog\\ViewComponents\\Category\\CategoryList.cs",
-              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\ViewComponents\\Category\\CategoryList.cs",
-              "RelativeToolTip": "CoreBlog\\ViewComponents\\Category\\CategoryList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "NewsletterController.cs",
+              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Controllers\\NewsletterController.cs",
+              "RelativeDocumentMoniker": "CoreBlog\\Controllers\\NewsletterController.cs",
+              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Controllers\\NewsletterController.cs",
+              "RelativeToolTip": "CoreBlog\\Controllers\\NewsletterController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T14:17:51.636Z",
+              "WhenOpened": "2024-11-12T14:18:37.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BlogReadAll.cshtml",
-              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Views\\Blog\\BlogReadAll.cshtml",
-              "RelativeDocumentMoniker": "CoreBlog\\Views\\Blog\\BlogReadAll.cshtml",
-              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Views\\Blog\\BlogReadAll.cshtml",
-              "RelativeToolTip": "CoreBlog\\Views\\Blog\\BlogReadAll.cshtml",
-              "ViewState": "AgIAAIUAAAAAAAAAAAD4v5AAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T09:17:09.958Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Program.cs",
+              "RelativeDocumentMoniker": "CoreBlog\\Program.cs",
+              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Program.cs",
+              "RelativeToolTip": "CoreBlog\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:20:16.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Views\\Shared\\Components\\CategoryList\\Default.cshtml",
-              "RelativeDocumentMoniker": "CoreBlog\\Views\\Shared\\Components\\CategoryList\\Default.cshtml",
-              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Views\\Shared\\Components\\CategoryList\\Default.cshtml",
-              "RelativeToolTip": "CoreBlog\\Views\\Shared\\Components\\CategoryList\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T14:21:45.975Z",
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "CoreBlog\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "CoreBlog\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:59:33.107Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CommentListByBlog.cs",
-              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\ViewComponents\\Comment\\CommentListByBlog.cs",
-              "RelativeDocumentMoniker": "CoreBlog\\ViewComponents\\Comment\\CommentListByBlog.cs",
-              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\ViewComponents\\Comment\\CommentListByBlog.cs",
-              "RelativeToolTip": "CoreBlog\\ViewComponents\\Comment\\CommentListByBlog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CoreBlog\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CoreBlog\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T14:26:33.849Z",
+              "WhenOpened": "2024-11-12T14:18:36.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CommentListByBlog.cshtml",
-              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Views\\Comment\\CommentListByBlog.cshtml",
-              "RelativeDocumentMoniker": "CoreBlog\\Views\\Comment\\CommentListByBlog.cshtml",
-              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Views\\Comment\\CommentListByBlog.cshtml",
-              "RelativeToolTip": "CoreBlog\\Views\\Comment\\CommentListByBlog.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T14:01:27.09Z",
+              "Title": "WriterController.cs",
+              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Controllers\\WriterController.cs",
+              "RelativeDocumentMoniker": "CoreBlog\\Controllers\\WriterController.cs",
+              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Controllers\\WriterController.cs",
+              "RelativeToolTip": "CoreBlog\\Controllers\\WriterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:12:38.331Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Views\\Shared\\Components\\CommentList\\Default.cshtml",
-              "RelativeDocumentMoniker": "CoreBlog\\Views\\Shared\\Components\\CommentList\\Default.cshtml",
-              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Views\\Shared\\Components\\CommentList\\Default.cshtml",
-              "RelativeToolTip": "CoreBlog\\Views\\Shared\\Components\\CommentList\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T14:10:11.546Z",
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "CoreBlog\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "CoreBlog\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:18:38.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CommentList.cs",
-              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\ViewComponents\\CommentList.cs",
-              "RelativeDocumentMoniker": "CoreBlog\\ViewComponents\\CommentList.cs",
-              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\ViewComponents\\CommentList.cs",
-              "RelativeToolTip": "CoreBlog\\ViewComponents\\CommentList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Title": "ErrorPageController.cs",
+              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Controllers\\ErrorPageController.cs",
+              "RelativeDocumentMoniker": "CoreBlog\\Controllers\\ErrorPageController.cs",
+              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Controllers\\ErrorPageController.cs",
+              "RelativeToolTip": "CoreBlog\\Controllers\\ErrorPageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T10:51:09.746Z",
+              "WhenOpened": "2024-11-12T14:18:35.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Views\\Shared\\Components\\CommentListByBlog\\Default.cshtml",
-              "RelativeDocumentMoniker": "CoreBlog\\Views\\Shared\\Components\\CommentListByBlog\\Default.cshtml",
-              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Views\\Shared\\Components\\CommentListByBlog\\Default.cshtml",
-              "RelativeToolTip": "CoreBlog\\Views\\Shared\\Components\\CommentListByBlog\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T14:01:20.834Z",
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "CoreBlog\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "CoreBlog\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:18:34.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Controllers\\Category.cs",
+              "RelativeDocumentMoniker": "CoreBlog\\Controllers\\Category.cs",
+              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Controllers\\Category.cs",
+              "RelativeToolTip": "CoreBlog\\Controllers\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:18:32.291Z",
               "EditorCaption": ""
             },
             {
@@ -232,243 +181,22 @@
               "RelativeDocumentMoniker": "CoreBlog\\Controllers\\BlogController.cs",
               "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Controllers\\BlogController.cs",
               "RelativeToolTip": "CoreBlog\\Controllers\\BlogController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T08:06:34.297Z",
+              "WhenOpened": "2024-11-12T14:18:27.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "CoreBlog\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "CoreBlog\\Controllers\\HomeController.cs",
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "CoreBlog\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "CoreBlog\\Controllers\\AboutController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T14:09:53.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserComment.cs",
-              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Models\\UserComment.cs",
-              "RelativeDocumentMoniker": "CoreBlog\\Models\\UserComment.cs",
-              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Models\\UserComment.cs",
-              "RelativeToolTip": "CoreBlog\\Models\\UserComment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T13:29:28.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Controllers\\Category.cs",
-              "RelativeDocumentMoniker": "CoreBlog\\Controllers\\Category.cs",
-              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Controllers\\Category.cs",
-              "RelativeToolTip": "CoreBlog\\Controllers\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T10:11:25.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "CoreBlog\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "CoreBlog\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T14:09:51.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CommentController.cs",
-              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Controllers\\CommentController.cs",
-              "RelativeDocumentMoniker": "CoreBlog\\Controllers\\CommentController.cs",
-              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Controllers\\CommentController.cs",
-              "RelativeToolTip": "CoreBlog\\Controllers\\CommentController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T09:46:55.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Views\\Blog\\Index.cshtml",
-              "RelativeDocumentMoniker": "CoreBlog\\Views\\Blog\\Index.cshtml",
-              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Views\\Blog\\Index.cshtml",
-              "RelativeToolTip": "CoreBlog\\Views\\Blog\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T09:59:43.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PartialAddComment.cshtml",
-              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Views\\Comment\\PartialAddComment.cshtml",
-              "RelativeDocumentMoniker": "CoreBlog\\Views\\Comment\\PartialAddComment.cshtml",
-              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Views\\Comment\\PartialAddComment.cshtml",
-              "RelativeToolTip": "CoreBlog\\Views\\Comment\\PartialAddComment.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T09:47:54.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "EfBlogRepository.cs",
-              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\DataAccessLayer\\EntityFramework\\EfBlogRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfBlogRepository.cs",
-              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\DataAccessLayer\\EntityFramework\\EfBlogRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\EntityFramework\\EfBlogRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T08:45:40.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CommentManager.cs",
-              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\BusinessLayer\\Concrete\\CommentManager.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\CommentManager.cs",
-              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\BusinessLayer\\Concrete\\CommentManager.cs",
-              "RelativeToolTip": "BusinessLayer\\Concrete\\CommentManager.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAIAwwAsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T10:06:46.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ICommentService.cs",
-              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\BusinessLayer\\Abstract\\ICommentService.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\ICommentService.cs",
-              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\BusinessLayer\\Abstract\\ICommentService.cs",
-              "RelativeToolTip": "BusinessLayer\\Abstract\\ICommentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T10:05:30.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IBlogService.cs",
-              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\BusinessLayer\\Abstract\\IBlogService.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IBlogService.cs",
-              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\BusinessLayer\\Abstract\\IBlogService.cs",
-              "RelativeToolTip": "BusinessLayer\\Abstract\\IBlogService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T08:07:04.95Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\BusinessLayer\\Abstract\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\BusinessLayer\\Abstract\\ICategoryService.cs",
-              "RelativeToolTip": "BusinessLayer\\Abstract\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T08:07:12.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "BlogManager.cs",
-              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\BusinessLayer\\Concrete\\BlogManager.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\BlogManager.cs",
-              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\BusinessLayer\\Concrete\\BlogManager.cs",
-              "RelativeToolTip": "BusinessLayer\\Concrete\\BlogManager.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T08:08:34.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\DataAccessLayer\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\DataAccessLayer\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCcAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T09:28:59.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IGenericDal.cs",
-              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\DataAccessLayer\\Abstract\\IGenericDal.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IGenericDal.cs",
-              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\DataAccessLayer\\Abstract\\IGenericDal.cs",
-              "RelativeToolTip": "DataAccessLayer\\Abstract\\IGenericDal.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T09:27:39.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "UserLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Views\\Shared\\UserLayout.cshtml",
-              "RelativeDocumentMoniker": "CoreBlog\\Views\\Shared\\UserLayout.cshtml",
-              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\CoreBlog\\Views\\Shared\\UserLayout.cshtml",
-              "RelativeToolTip": "CoreBlog\\Views\\Shared\\UserLayout.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAE4AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T09:22:08.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "BusinessLayer",
-              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\BusinessLayer\\BusinessLayer.csproj",
-              "RelativeDocumentMoniker": "BusinessLayer\\BusinessLayer.csproj",
-              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\BusinessLayer\\BusinessLayer.csproj",
-              "RelativeToolTip": "BusinessLayer\\BusinessLayer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-06T08:06:40.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IBlogDal.cs",
-              "DocumentMoniker": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\DataAccessLayer\\Abstract\\IBlogDal.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IBlogDal.cs",
-              "ToolTip": "C:\\Users\\tahag\\Documents\\ProjectFiles\\CoreBlog\\DataAccessLayer\\Abstract\\IBlogDal.cs",
-              "RelativeToolTip": "DataAccessLayer\\Abstract\\IBlogDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T08:43:05.077Z",
+              "WhenOpened": "2024-11-12T14:18:45.801Z",
               "EditorCaption": ""
             }
           ]
