@@ -8,6 +8,7 @@ admin panel %10
 
 I use them for development;
 asp.net core 8.0
+microsoft sql server
 n tier architecture
 entity framework
-microsoft sql server
+fluent validation
