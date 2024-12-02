@@ -12,3 +12,6 @@ microsoft sql server
 n tier architecture
 entity framework
 fluent validation
+
+I will use them;
+
